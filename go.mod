@@ -1,4 +1,4 @@
-module github.com/vinissimus/caddy-prometheus
+module github.com/calivent/caddy-prometheus
 
 go 1.15
 
